@@ -40,7 +40,7 @@ If you prefer to use the older version please use this [commit](https://github.c
 
 **_The more users you have to check, more time it will take_**
 
-**_This script has been tested only on Chromium-based browsers_**
+**_This script has been tested on Chromium and Apple WebKit based browsers_**
 
 ## DEV
 
